@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá! Eu sou a Maria Claudia Lages 👋
 
-<!--
-**marialages/marialages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marialagess/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.instagram.com/marialagess/](https://www.linkedin.com/in/maria-claudia-lages-154865180/)https://www.linkedin.com/in/maria-claudia-lages-154865180/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=marialages&show_icons=true&theme=radical"> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialages&hide_progress=true">
+
+## Tecnologias 
+<div style = "display: Inline_Block"><br/>
+<img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</div></br>
+
+Apaixonada por tecnologia, em estudar novas linguagens e  fazer a diferença através da programação!!
+
+
+
+
