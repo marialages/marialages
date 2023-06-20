@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.instagram.com/marialagess/](https://www.linkedin.com/in/maria-claudia-lages-154865180/)https://www.linkedin.com/in/maria-claudia-lages-154865180/)
 
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=marialages&show_icons=true&theme=radical"> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialages&hide_progress=true">
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=marialages&show_icons=true&theme=dracula"> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialages&hide_progress=true">
 
 ## Tecnologias 
 <div style = "display: Inline_Block"><br/>
