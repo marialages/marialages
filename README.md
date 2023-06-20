@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Maria Claudia Lages 👋
 
 [![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marialagess/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.instagram.com/marialagess/](https://www.linkedin.com/in/maria-claudia-lages-154865180/)https://www.linkedin.com/in/maria-claudia-lages-154865180/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-claudia-lages-154865180/)
 
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=marialages&show_icons=true&theme=dracula"> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialages&hide_progress=true">
